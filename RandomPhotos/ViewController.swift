@@ -25,7 +25,8 @@ class ViewController: UIViewController {
         .systemIndigo,
         .systemOrange,
         .systemYellow,
-        .systemGreen
+        .systemGreen,
+        .systemGray
         
     ]
     
