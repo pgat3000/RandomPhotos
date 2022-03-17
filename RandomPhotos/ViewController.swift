@@ -37,6 +37,8 @@ class ViewController: UIViewController {
         button.backgroundColor = .white
         button.setTitle("Random Photo", for: .normal)
         button.setTitleColor(.black, for: .normal)
+        button.titleLabel?.font = UIFont(name: "HelveticaNeue", size: 25)
+        
         return button
     }()
     
